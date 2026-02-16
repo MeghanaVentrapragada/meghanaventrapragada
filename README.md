@@ -55,11 +55,11 @@
 
 | 🚀 Project | 📋 Description | 🛠 Tech Stack |
 |-----------|---------------|--------------|
-| 🔧 [ETL Pipeline - AWS](#) | End-to-end pipeline: API ingestion → S3 → Redshift with automated scheduling | Python, AWS, SQL, Airflow |
-| ⚡ [PySpark Data Processor](#) | Large-scale distributed data transformation and aggregation | PySpark, Hadoop, Python |
-| 📊 [Data Warehouse Design](#) | Star schema data modeling with dbt transformations | SQL, dbt, Snowflake |
-| 🌊 [Real-Time Streaming Pipeline](#) | Real-time event processing with Kafka + Spark Streaming | Kafka, Spark, AWS |
-| 🧹 [Data Quality Framework](#) | Automated data validation and quality checks on pipelines | Python, SQL, AWS Glue |
+| 🔧 ETL Pipeline - AWS | End-to-end pipeline: API ingestion → S3 → Redshift with automated scheduling | Python, AWS, SQL, Airflow |
+| ⚡ PySpark Data Processor | Large-scale distributed data transformation and aggregation | PySpark, Hadoop, Python |
+| 📊 Data Warehouse Design | Star schema data modeling with dbt transformations | SQL, dbt, Snowflake |
+| 🌊 Real-Time Streaming Pipeline | Real-time event processing with Kafka + Spark Streaming | Kafka, Spark, AWS |
+| 🧹 Data Quality Framework | Automated data validation and quality checks on pipelines | Python, SQL, AWS Glue |
 
 
 
